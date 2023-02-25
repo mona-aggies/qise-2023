@@ -3,6 +3,10 @@ this is work from the quantum coputing course i took i spring of 2023
 
 I'm making some more changes just to demonstrate how i can update an file on Github.com
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ba3af98afe0d87a1848a738f27e0a4c1a16cff24
 2/4 we're learning how to do matrix, I still don't undertand how to do a git repository
 
 2/11 we're continuing to do matrix as well as math with it. The videos are starting to help me understand.
@@ -14,3 +18,7 @@ Relearned matrices.
 
 2/20 Trying to save this as a git repository.
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> ba3af98afe0d87a1848a738f27e0a4c1a16cff24
