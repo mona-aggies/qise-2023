@@ -7,3 +7,4 @@ https://www.kotaku.com.au/2020/02/quantum-computing-video-games/ (I mainly watch
 https://builtin.com/hardware/quantum-computer-games (Gave me some background information about the plausibility of a new world opening for the gaming world and that games such as minecraft can be made using quantum computing)
 https://www.ibm.com/blogs/research/2018/07/hello-quantum/ (this one was featured in Kotaku, however, this article had showed me that it was actually plausibile to make a game)
 https://www.qmunity.tech/tutorials/building-a-quantum-game (this one was especsially helpful as it taught me how to developed a quatum game, although i do not know if this will help in building a tic-tac-toe game.)
+
