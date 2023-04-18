@@ -5,3 +5,9 @@ april 1:
     from February 17-March 28th, I was trying to plan with my groupmates and push them to help me start the planning process. I was ignored then started to seek out the professor, however I still had to focus on the class. 
 
     Currently I have a new group and I'm just now starting the planning proccess of a simple game.
+week of april 8:
+
+    I joined the new group and we have been planning things out, we initally thought the python part would be good to work on. If this doesn't go well, we decided to do the battleship game.
+    I did ask Professor Kenny about the tic-tac-toe template which really helped me look at how to do it. I'm thinking of adding this to the quantumcircuit to see if this can be vizualized.
+April 17th:
+    I'm working on the game once again, and so far I got 9 qubits to vizualized what to look at and how to incoroprate this into the game. The python part is really throwing me for a loop since I'm trying to make this a 2 player game to make it easier as well as assign values.
